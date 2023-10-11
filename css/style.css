@@ -1,13 +1,16 @@
-h1.Intro {
-    font-style: italic;
-    font-weight: bold;
+
+
+.Intro {
+    font-style: normal ;
+    text-align: center;
   }
 h2.Intro {
     font-style:normal;
     color: blue;
 }
 
-p.Intro {
-    font-style: oblique;
-    color:coral;
+
+div {
+    background: lightgray;
+    width: 75%
 }
